@@ -387,12 +387,6 @@
 
 <br/>
 
-<a href="https://github.com/RomanHDL">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHDL&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=22C55E&text_color=06B6D4&card_width=700" width="70%" alt="languages donut"/>
-</a>
-
-<br/><br/>
-
 <!-- Colored language progress badges -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
