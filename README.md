@@ -5,8 +5,6 @@
 <!-- ══════════════════════════ HERO BANNER ══════════════════════════ -->
 
 <a href="https://github.com/RomanHDL">
- type=venom&color=0:0D1117,50:8B5CF6,100:06B6D4&height=300&section=header&text=ROMAN%20HDL&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20Frontend%20%7C%20Fullstack%20Engineer%20%2F%3E&descAlignY=60&descSize=22" width="100%"/>
-</a>
 
 <!-- ═════════════════════ HERO TAGLINE ════════════════════ -->
 
