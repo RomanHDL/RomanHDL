@@ -2,18 +2,41 @@
 <!--            R O M A N   H D L   ·   FULLSTACK  DEV              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
+
 <a href="https://github.com/RomanHDL">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:8B5CF6,50:06B6D4,75:22C55E,100:FBBF24&height=280&section=header&text=ROMAN%20HDL&fontSize=95&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9C%A8%20Frontend%20%26%20Fullstack%20Developer%20%E2%9C%A8&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:8B5CF6,50:06B6D4,75:22C55E,100:FBBF24&height=320&section=header&text=ROMAN%20HDL&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Frontend%20%26%20Fullstack%20Developer%20%E2%9C%A8&descAlignY=60&descSize=24" width="100%"/>
 </a>
+
+<!-- ═══ HERO: CODER GIF + TAGLINE ═══ -->
 
 <div align="center">
 
-<!-- ═══ ANIMATED TAGLINE ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=600&color=FF0080&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=65&lines=%F0%9F%9A%80+SYSTEM+BOOTED+%E2%80%94+Welcome+to+my+realm!;%E2%9A%A1+Crafting+pixel-perfect+digital+experiences;%F0%9F%92%9C+React+%E2%80%A2+%F0%9F%94%B5+Next.js+%E2%80%A2+%E2%9D%A4%EF%B8%8F+Angular+%E2%80%A2+%F0%9F%9F%A2+Node.js;%F0%9F%8E%AE+Code+by+day+%E2%80%A2+Game+by+night;%F0%9F%8C%88+Building+beautiful+%2C+colorful+%2C+alive+UIs;%E2%9C%A8+Level+%E2%88%9E+%E2%80%94+Never+stop+shipping!" alt="Typing Animation" />
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="middle" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=600&color=FF0080&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=180&lines=%3E+SYSTEM+BOOTED+%F0%9F%9A%80;%3E+Welcome+to+my+realm+%E2%9C%A8;%3E+React+%E2%80%A2+Next.js+%E2%80%A2+Angular;%3E+Node.js+%E2%80%A2+TypeScript;%3E+Level+%E2%88%9E+%E2%80%94+Keep+shipping+%F0%9F%92%9C" alt="Typing Animation" />
 
 <br/>
 
-<!-- ═══ WAVING HAND + GREETING ═══ -->
+[![Profile Views](https://komarev.com/ghpvc/?username=RomanHDL&style=for-the-badge&color=FF0080&label=PROFILE+VISITS)](https://github.com/RomanHDL)
+[![Followers](https://img.shields.io/github/followers/RomanHDL?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS)](https://github.com/RomanHDL)
+
+[![Stars](https://img.shields.io/github/stars/RomanHDL?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=STARS)](https://github.com/RomanHDL)
+[![Status](https://img.shields.io/badge/STATUS-%F0%9F%9F%A2%20ONLINE-22C55E?style=for-the-badge&labelColor=0D1117)](https://github.com/RomanHDL)
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238200105-9683e8b8-40b1-48c6-8ce2-b5b0d1b93d74.gif" width="100%" alt="coder animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d07dea7813df.gif" width="50"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/216122003-1a90dc0a-26f7-4da4-a8be-43d407dd9942.png" width="50"/> &nbsp;
@@ -22,17 +45,7 @@
 
 <br/><br/>
 
-<!-- ═══ SNAKE EATING CONTRIBUTIONS ═══ -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-
-<br/><br/>
-
-<!-- ═══ COLORFUL BADGES ═══ -->
-[![Profile Views](https://komarev.com/ghpvc/?username=RomanHDL&style=for-the-badge&color=FF0080&label=PROFILE+VISITS)](https://github.com/RomanHDL)
-[![Followers](https://img.shields.io/github/followers/RomanHDL?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS)](https://github.com/RomanHDL)
-[![Stars](https://img.shields.io/github/stars/RomanHDL?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=STARS)](https://github.com/RomanHDL)
-[![Commits](https://img.shields.io/badge/COMMITS-1000%2B-22C55E?style=for-the-badge&labelColor=0D1117)](https://github.com/RomanHDL)
-[![Status](https://img.shields.io/badge/STATUS-%F0%9F%9F%A2%20ONLINE-FBBF24?style=for-the-badge&labelColor=0D1117)](https://github.com/RomanHDL)
 
 </div>
 
@@ -98,7 +111,7 @@
 
 <br/>
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<!-- ═══════════════════ MISSIONS ═══════════════════ -->
 
 <div align="center">
 
@@ -171,6 +184,96 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 💬 &nbsp; Real-Time Chat
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
+
+⚡ Chat en tiempo real con salas, notificaciones y tipeo en vivo
+
+`Next.js` · `Socket.io` · `Node.js`
+
+![WebSockets](https://img.shields.io/badge/WebSockets-FF0080?style=flat-square)
+![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat-square)
+![Rooms](https://img.shields.io/badge/Rooms-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🎨 &nbsp; Landing Animadas
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+
+✨ Landings con micro-interacciones, parallax y scroll reveals
+
+`Next.js` · `Framer Motion` · `GSAP`
+
+![Motion](https://img.shields.io/badge/Motion-FF0080?style=flat-square)
+![Parallax](https://img.shields.io/badge/Parallax-8B5CF6?style=flat-square)
+![WOW](https://img.shields.io/badge/WOW-22C55E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔐 &nbsp; Auth System
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+
+🛡️ Sistema de auth con JWT, OAuth, 2FA y roles
+
+`Node.js` · `JWT` · `OAuth 2.0`
+
+![JWT](https://img.shields.io/badge/JWT-FF0080?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-8B5CF6?style=flat-square)
+![2FA](https://img.shields.io/badge/2FA-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📱 &nbsp; REST API
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+
+🔌 API escalable con docs auto-generadas, rate limit y cache
+
+`Node.js` · `Express` · `MongoDB`
+
+![REST](https://img.shields.io/badge/REST-FF0080?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-8B5CF6?style=flat-square)
+![Cache](https://img.shields.io/badge/Cache-22C55E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### ✍️ &nbsp; Blog / CMS
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+
+📝 Blog con MDX, syntax highlighting, comentarios y newsletter
+
+`Next.js` · `MDX` · `Contentful`
+
+![MDX](https://img.shields.io/badge/MDX-FF0080?style=flat-square)
+![ISR](https://img.shields.io/badge/ISR-8B5CF6?style=flat-square)
+![Newsletter](https://img.shields.io/badge/Newsletter-22C55E?style=flat-square)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ✅ &nbsp; Task Manager
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+📋 Gestor de tareas con drag & drop, tableros y colaboración
+
+`React` · `DnD Kit` · `Node.js`
+
+![DnD](https://img.shields.io/badge/Drag_%26_Drop-FF0080?style=flat-square)
+![Boards](https://img.shields.io/badge/Boards-8B5CF6?style=flat-square)
+![Teams](https://img.shields.io/badge/Teams-22C55E?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -182,7 +285,7 @@
 
 <br/>
 
-<!-- ═══════════════════ GAME STATS ═══════════════════ -->
+<!-- ═══════════════════ GAME STATS (REDESIGN) ═══════════════════ -->
 
 <div align="center">
 
@@ -194,28 +297,81 @@
 
 <br/><br/>
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=RomanHDL&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF0080&icon_color=8B5CF6&text_color=06B6D4&ring_color=22C55E" />
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHDL&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=FF0080&text_color=06B6D4" />
+<!-- PROFILE SUMMARY ROW 1 -->
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanHDL&theme=radical" width="98%" alt="profile details"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RomanHDL&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=8B5CF6&fire=FBBF24&currStreakLabel=FF0080&dates=06B6D4&sideNums=22C55E&currStreakNum=ffffff&sideLabels=8B5CF6" />
+<!-- ROW 2 — 2 columns -->
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanHDL&theme=radical" width="48%" alt="stats"/>
+</a>
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanHDL&theme=radical&utcOffset=-3" width="48%" alt="productive time"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RomanHDL&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF0080&line=8B5CF6&point=06B6D4&area=true&area_color=FBBF24" width="98%"/>
+<!-- ROW 3 — streak full width -->
+<a href="https://github.com/RomanHDL">
+  <img src="https://streak-stats.demolab.com?user=RomanHDL&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=8B5CF6&fire=FBBF24&currStreakLabel=FF0080&dates=06B6D4&sideNums=22C55E&currStreakNum=ffffff&sideLabels=8B5CF6" width="98%" alt="streak stats"/>
+</a>
 
 <br/><br/>
 
-### 🏆 &nbsp; ACHIEVEMENTS UNLOCKED
-
-<img src="https://github-profile-trophy.vercel.app/?username=RomanHDL&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" />
+<!-- ROW 4 — activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RomanHDL&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF0080&line=8B5CF6&point=06B6D4&area=true&area_color=FBBF24" width="98%" alt="activity graph"/>
 
 <br/><br/>
 
-### 📈 &nbsp; CONTRIBUTION GRAPH
-
+<!-- ROW 5 — contribution chart -->
 <img src="https://ghchart.rshah.org/FF0080/RomanHDL" width="98%" alt="contribution graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ MOST USED LANGUAGES (REDESIGN) ═══════════════════ -->
+
+<div align="center">
+
+## 🎨 &nbsp; MOST USED LANGUAGES
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4aa0-8cde-835593464103.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60"/>
+
+<br/><br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHDL&layout=donut&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF0080&text_color=06B6D4" width="100%" alt="donut languages"/>
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanHDL&theme=radical" width="100%" alt="most commit language"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/RomanHDL">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanHDL&theme=radical" width="98%" alt="repos per language"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -232,7 +388,7 @@
 
 ## 💡 &nbsp; DEV PHILOSOPHY
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200105-9683e8b8-40b1-48c6-8ce2-b5b0d1b93d74.gif" width="500"/>
 
 <br/><br/>
 
@@ -358,7 +514,7 @@ Rendimiento de nivel pro
 
 <br/>
 
-<!-- ═══════════════════ TECH STACK (FINAL) ═══════════════════ -->
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
 
@@ -394,7 +550,6 @@ Rendimiento de nivel pro
 
 <br/><br/>
 
-<!-- Colorful tech badges -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -416,7 +571,7 @@ Rendimiento de nivel pro
 
 <br/><br/>
 
-<!-- ═══════════════════ FINAL QUOTE ═══════════════════ -->
+<!-- ═══════════════════ FINAL WORDS ═══════════════════ -->
 
 <div align="center">
 
@@ -437,8 +592,12 @@ Rendimiento de nivel pro
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/made-with-typescript.svg" />
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="650" alt="thank you"/>
+
 </div>
 
 <!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:8B5CF6,50:06B6D4,75:22C55E,100:FBBF24&height=160&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FBBF24,25:22C55E,50:06B6D4,75:8B5CF6,100:FF0080&height=180&section=footer&animation=fadeIn" width="100%"/>
