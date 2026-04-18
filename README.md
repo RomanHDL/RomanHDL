@@ -8,15 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:8B5CF6,100:06B6D4&height=300&section=header&text=ROMAN%20HDL&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20Frontend%20%7C%20Fullstack%20Engineer%20%2F%3E&descAlignY=60&descSize=22" width="100%"/>
 </a>
 
-<!-- ═════════════════════ TERMINAL BOOT SEQUENCE ════════════════════ -->
+<!-- ═════════════════════ HERO TAGLINE ════════════════════ -->
 
 <div align="center">
 
-<table border="0" width="100%">
-<tr>
-<td width="55%" valign="middle" align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=22C55E&background=0D111700&multiline=true&width=600&height=320&lines=%24+whoami;%3E+Roman+HDL+%E2%80%94+Fullstack+Engineer;%3E+;%24+cat+~%2F.profile;%3E+Building+high-performance+web+apps;%3E+React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+Node;%3E+;%24+uptime;%3E+%E2%88%9E+hours+%E2%80%94+always+shipping;%3E+;%24+./start.sh+%26%26+echo+%22ready%22;%3E+System+online.+Welcome." alt="terminal animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=%3C+Frontend+%7C+Fullstack+Engineer+%2F%3E;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+Node.js;Building+high-performance+web+applications;Clean+code+%C2%B7+Performance+%C2%B7+Design+first" alt="tagline"/>
 
 <br/>
 
@@ -25,16 +21,7 @@
 [![Stars](https://img.shields.io/github/stars/RomanHDL?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=STARS)](https://github.com/RomanHDL)
 [![Status](https://img.shields.io/badge/%E2%97%8F%20SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D1117)](https://github.com/RomanHDL)
 
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="95%" alt="engineer coding"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution animation"/>
 
@@ -370,37 +357,51 @@
 
 <div align="center">
 
-## `$ git log --stat --languages`
+## `$ ./lang-analyzer --scan`
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=22C55E&background=0D111700&multiline=true&width=800&height=200&lines=%24+analyzing+repositories...;%3E+scanning+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+detected%3A+TypeScript%2C+React%2C+Node.js%2C+Angular...;%3E+compiling+insights...;%3E+report+ready+%E2%9C%93" alt="language analyzer"/>
+
+<br/>
+
+```bash
+┌───────────────────────────────────────────────────────────────────┐
+│  LANGUAGE RANKING · last 12 months                                │
+├───────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│   TypeScript   ████████████████████░░░░░░░░░░   72.4%   ▲         │
+│   JavaScript   ████████████████░░░░░░░░░░░░░░   58.1%   ▲         │
+│   HTML / CSS   █████████████░░░░░░░░░░░░░░░░░   47.6%   ━         │
+│   Node.js      ██████████░░░░░░░░░░░░░░░░░░░░   38.2%   ▲         │
+│   SCSS         ████████░░░░░░░░░░░░░░░░░░░░░░   29.8%   ━         │
+│   SQL          █████░░░░░░░░░░░░░░░░░░░░░░░░░   18.3%   ━         │
+│   Python       ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.7%   ▲         │
+│                                                                   │
+├───────────────────────────────────────────────────────────────────┤
+│  Primary stack  :  TypeScript · React · Next.js · Node.js         │
+│  Frameworks     :  Angular · Express · NestJS                     │
+│  Trend          :  ▲ rising usage of TypeScript + Next.js         │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
 
 <a href="https://github.com/RomanHDL">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHDL&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22C55E&text_color=06B6D4" width="100%" alt="languages donut"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHDL&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=22C55E&text_color=06B6D4&card_width=700" width="70%" alt="languages donut"/>
 </a>
 
-</td>
-<td width="50%" valign="top" align="center">
+<br/><br/>
 
-<a href="https://github.com/RomanHDL">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanHDL&theme=algolia" width="100%" alt="most commit language"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<a href="https://github.com/RomanHDL">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanHDL&theme=algolia" width="98%" alt="repos per language"/>
-</a>
-
-</td>
-</tr>
-</table>
+<!-- Colored language progress badges -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
