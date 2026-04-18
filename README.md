@@ -11,7 +11,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RomanHDL&style=for-the-badge&color=22C55E&labelColor=0D1117&label=VISITORS)](https://github.com/RomanHDL)
-[![Followers](https://img.shields.io/github/followers/RomanHDL?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS)](https://github.com/RomanHDL)
+[![Followers](https://img.shields.io/github/followers/RomanHDL?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS&cacheSeconds=300)](https://github.com/RomanHDL?tab=followers)
 [![Stars](https://img.shields.io/github/stars/RomanHDL?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=STARS)](https://github.com/RomanHDL)
 [![Status](https://img.shields.io/badge/%E2%97%8F%20SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D1117)](https://github.com/RomanHDL)
 
